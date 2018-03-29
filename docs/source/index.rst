@@ -6,11 +6,17 @@
 Welcome to sphinx_git_ci_training's documentation!
 ==================================================
 
+API
+---
+
+GO TO :ref:`eneldo_api`.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   eneldo_api
 
 Indices and tables
 ==================
